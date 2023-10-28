@@ -1,0 +1,45 @@
+/* recycle.css */
+.roption {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #596259;
+    color: #a7b9a8;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  

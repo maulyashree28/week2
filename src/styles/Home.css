@@ -1,0 +1,25 @@
+/* Home.css */
+.home {
+  background-size: cover; /* Ensure the background image covers the entire container */
+  background-position: center; /* Center the background image */
+  height: 100vh; /* Set the height to the viewport height for a full-screen effect */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+.headerContainer {
+  background: rgba(0, 0, 0, 0); /* Add a semi-transparent background to the header container */
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 18px;
+}
